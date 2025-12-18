@@ -80,37 +80,6 @@
 
 ---
 
-## 📂 Featured Projects 🚀
-
-### 🏢 JNPA Internship Letter Generator
-**Production-style portal for managing official internship letters**
-  
-`Python · Flask · Firebase · PDF Generation`
-
----
-
-### 🧠 ManoSahyog (Academic Project)
-**AI-powered mental health support system**
-  
-`GenAI · NLP · Machine Learning`
-
----
-
-### 📡 Real-Time Log Monitoring System
-**Live backend log streaming with real-time updates**
-  
-`Python · WebSockets`
-
----
-
-## 🏆 Achievements & Leadership 🏅
-
-- 🧠 **Chairperson – CSI PCE**
-- 🎯 Led & organized **technical events and workshops**
-- 📚 Actively preparing for **backend, DevOps & system design interviews**
-
----
-
 ## 📊 GitHub Stats 📈
 
 <p align="left">
