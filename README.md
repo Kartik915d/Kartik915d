@@ -83,14 +83,17 @@
 ## 📊 GitHub Stats 📈
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Kartik915d&show_icons=true&theme=tokyonight" height="180" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Kartik915d&show_icons=true&theme=tokyonight" height="180" alt="GitHub Stats" />
+  
   <br><br>
 
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kartik915d&theme=tokyonight" height="180" alt="streak graph" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kartik915d&theme=tokyonight&hide_border=true" height="180" alt="GitHub Streak" />
+  
   <br><br>
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kartik915d&layout=compact&theme=tokyonight" height="180" alt="top languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kartik915d&layout=compact&theme=tokyonight" height="180" alt="Top Languages" />
 </div>
 
-<!-- Optional Badge -->
-![Profile views](https://komarev.com/ghpvc/?username=Kartik915d&label=Profile%20views&color=0e75b6&style=flat)
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=Kartik915d&label=Profile%20Views&color=blue&style=flat" alt="Profile Views" />
+</div>
