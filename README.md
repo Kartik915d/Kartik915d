@@ -82,14 +82,15 @@
 
 ## 📊 GitHub Stats 📈
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Kartik915d&show_icons=true&theme=tokyonight" height="170"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kartik915d&theme=tokyonight" height="160"/>
-</p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Kartik915d&show_icons=true&theme=tokyonight" height="180" alt="stats graph" />
+  <br><br>
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kartik915d&layout=compact&theme=tokyonight" height="160"/>
-</p>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kartik915d&theme=tokyonight" height="180" alt="streak graph" />
+  <br><br>
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kartik915d&layout=compact&theme=tokyonight" height="180" alt="top languages" />
+</div>
 
 <!-- Optional Badge -->
 ![Profile views](https://komarev.com/ghpvc/?username=Kartik915d&label=Profile%20views&color=0e75b6&style=flat)
