@@ -114,7 +114,7 @@
 ## 📊 GitHub Stats 📈
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Kartik915d&show_icons=true&theme=tokyonight" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Kartik915d&show_icons=true&theme=tokyonight" height="170"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kartik915d&theme=tokyonight" height="160"/>
 </p>
 
