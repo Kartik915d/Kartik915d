@@ -37,16 +37,16 @@
          alt="LinkedIn" height="30" width="40" />
   </a>
 
-  <!-- GitHub -->
-  <a href="https://github.com/Kartik915d" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg"
-         alt="GitHub" height="30" width="40" />
-  </a>
 
   <!-- Instagram -->
   <a href="https://www.instagram.com/Kartik_915" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
          alt="Instagram" height="30" width="40" />
+  </a>
+  <!-- GitHub -->
+  <a href="https://github.com/Kartik915d" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg"
+         alt="GitHub" height="30" width="40" />
   </a>
 </p>
 
@@ -63,8 +63,6 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40" height="40"/>
 
-  <!-- Backend -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" width="40" height="40"/>
 
   <!-- Database -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="40" height="40"/>
@@ -76,6 +74,8 @@
   <!-- Tools -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40" height="40"/>
+  <!-- Backend -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" width="40" height="40"/>
 </p>
 
 ---
@@ -93,6 +93,7 @@
 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kartik915d&layout=compact&theme=tokyonight" height="180" alt="Top Languages" />
 </div>
+
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=Kartik915d&label=Profile%20Views&color=blue&style=flat" alt="Profile Views" />
