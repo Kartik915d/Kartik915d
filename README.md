@@ -83,7 +83,7 @@
 ## 📊 GitHub Stats 📈
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Kartik915d&show_icons=true&theme=tokyonight" height="180" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Kartik915d&show_icons=true&theme=tokyonight" height="180"/>
   
   <br><br>
 
@@ -91,7 +91,7 @@
   
   <br><br>
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kartik915d&layout=compact&theme=tokyonight" height="180" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kartik915d&layout=compact&theme=tokyonight" height="180"/>
 </div>
 
 
