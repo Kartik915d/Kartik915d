@@ -6,16 +6,15 @@
 🐍 Python Backend Developer | 🤖 GenAI & DevOps Enthusiast | 🧠 System Design Learner
 </h3>
 
-<!-- ===================== STICKER LINE ===================== -->
 <p align="center">
-  🚀 Building real-world backend systems &nbsp;|&nbsp;
-  ⚙️ Automating ideas into products &nbsp;|&nbsp;
-  🌱 Always learning
+🚀 Building real-world backend systems &nbsp;|&nbsp;
+⚙️ Automating ideas into products &nbsp;|&nbsp;
+🌱 Always learning
 </p>
 
 ---
 
-## 🧑‍💻 About Me 👨‍💻
+# 🧑‍💻 About Me
 
 - 🎓 Final-year **B.Tech Computer Engineering student (2026 batch)**
 - 🔭 Working on **Backend, production-style projects**
@@ -28,26 +27,22 @@
 
 ---
 
-## 🌐 Connect With Me 🤝
+# 🌐 Connect With Me
 
 <p align="left">
-  <!-- LinkedIn -->
-  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-ID" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
-         alt="LinkedIn" height="30" width="40" />
-  </a>
 
+<a href="https://www.linkedin.com/in/YOUR-LINKEDIN-ID">
+<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40"/>
+</a>
 
-  <!-- Instagram -->
-  <a href="https://www.instagram.com/Kartik_915" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
-         alt="Instagram" height="30" width="40" />
-  </a>
-  <!-- GitHub -->
-  <a href="https://github.com/Kartik915d" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg"
-         alt="GitHub" height="30" width="40" />
-  </a>
+<a href="https://www.instagram.com/Kartik_915">
+<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40"/>
+</a>
+
+<a href="https://github.com/Kartik915d">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" height="30" width="40"/>
+</a>
+
 </p>
 
 📫 **Reach me at:**  
@@ -55,41 +50,33 @@
 
 ---
 
-## 🛠️ Tech Stack ⚙️
+# 🛠️ Tech Stack
 
 <p align="left">
-  <!-- Languages -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40" height="40"/>
 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/>
 
-  <!-- Database -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40"/>
 
-  <!-- Web -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40" height="40"/>
 
-  <!-- Tools -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40" height="40"/>
-  <!-- Backend -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="40" height="40"/>
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40" height="40"/>
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="40" height="40"/>
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40" height="40"/>
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40" height="40"/>
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" width="40" height="40"/>
+
 </p>
 
 ---
 
-## 📊 GitHub Stats 📈
-
-<div align="center">
-  
-  <br><br>
-
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kartik915d&theme=tokyonight&hide_border=true" height="180" alt="GitHub Streak" />
-  
-  <br><br>
-## 📊 GitHub Stats 📈
+# 📊 GitHub Stats
 
 <p align="center">
 
@@ -101,12 +88,22 @@
 
 <p align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=Kartik915d&theme=tokyonight&hide_border=true" height="180"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Kartik915d&theme=tokyonight&hide_border=true" height="180"/>
 
 </p>
-</div>
 
+---
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Kartik915d&label=Profile%20Views&color=blue&style=flat" alt="Profile Views" />
-</div>
+# 📈 Contribution Activity
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Kartik915d&theme=tokyo-night&hide_border=true"/>
+
+</p>
+
+---
+
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=Kartik915d&label=Profile%20Views&color=blue&style=flat"/>
+</p>
