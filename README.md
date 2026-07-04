@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Kartik Dubey</h1>
 
 <h3 align="center">
-🎓 Final-year B.Tech Computer Engineering Student (2026)<br/>
+🎓 B.Tech Computer Engineering Graduate (2026)<br/>
 🐍 Python Backend Developer | 🤖 GenAI & DevOps Enthusiast | 🧠 System Design Learner
 </h3>
 
@@ -16,13 +16,13 @@
 
 # 🧑‍💻 About Me
 
-- 🎓 Final-year **B.Tech Computer Engineering student (2026 batch)**
+- 🎓 **B.Tech Graduate in Computer Engineering (2026)**
 - 🔭 Working on **Backend, production-style projects**
-- 🧩 Built a **Real-world Internship Letter Generator Portal**
+- 🧩- 🧩 Built **production-style backend applications with REST APIs, authentication, and database integration**
 - 🌱 Learning **GenAI integration, Docker, CI/CD, cloud basics & system design**
 - 💡 Interested in **scalable systems, automation & applied AI**
 - 💬 Ask me about **Python, Flask, REST APIs, Firebase, WebSockets**
-- 🤝 Open to **internships, collaborations & hackathons**
+- 🤝 Open to **full-time opportunities, collaborations, and hackathons**
 - ⚡ Fun fact: **Debugging backend bugs gives me more joy than UI 😄**
 
 ---
